@@ -3,4 +3,5 @@ public class Friday{
 		System.out.println("Hello World!");	
 	}
 	//测试中文
+	//星期五
 }
